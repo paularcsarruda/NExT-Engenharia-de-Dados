@@ -1,4 +1,5 @@
 import csv
+from csv import DictReader
 
 with open('Modulo 1 - Python/Aulas/Aula-09/dados.csv', 'r') as arquivo:
     leitor_csv = csv.DictReader(arquivo)
