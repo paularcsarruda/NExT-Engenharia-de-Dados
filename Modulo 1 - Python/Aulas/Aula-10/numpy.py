@@ -6,6 +6,15 @@ Ele fornece suporte para arrays multidimensionais e uma coleção de funções
 matemáticas para operar com esses arrays de forma eficiente. O NumPy é amplamente 
 utilizado em áreas como análise de dados, aprendizado de máquina, processamento de 
 imagens e muito mais.
+
+powershell
+
+python -m venv ambiente
+python -m venv env
+python -m venv .venv **
+
+ativar -> comando no script
+deactivate -> 
 '''
 #================================
 
