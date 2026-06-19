@@ -269,14 +269,17 @@ Define quantas ocorrências de uma entidade podem se relacionar com outra.
 #### 1:1
 
 Um para um.
+Um funcionário gerencia um único departamento por vez.
 
 #### 1:N
 
 Um para muitos.
+Um departamento abriga vários colaboradores.
 
 #### N:N
 
 Muitos para muitos.
+Colaboradores executam múltiplos projetos integrados.
 
 ---
 
