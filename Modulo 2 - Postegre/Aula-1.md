@@ -217,13 +217,13 @@ CREATE TABLE aluno (
 
 ---
 
-# 3. Modelagem Entidade-Relacionamento (ER)
+# 3. Modelagem Entidade-Relacionamento (ER) - Conceitual
 
 A modelagem ER é uma técnica utilizada para representar graficamente os dados de um sistema antes da implementação.
 
 ## Componentes
 
-### Entidade
+### Entidade (os substantivos)
 
 Representa um objeto do mundo real.
 
@@ -233,7 +233,7 @@ Representa um objeto do mundo real.
 * Professor
 * Curso
 
-### Atributo
+### Atributo (os adjetivos)
 
 Características de uma entidade.
 
@@ -242,6 +242,15 @@ Características de uma entidade.
 * Nome
 * CPF
 * Data de Nascimento
+
+### Atributo Chave (identificador)
+
+A propriedade única que não se repete sob hipotese alguma.
+
+**Exemplos:**
+
+* CPF
+* ID_produto
 
 ### Relacionamento
 
