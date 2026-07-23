@@ -1,4 +1,6 @@
-<img width="735" height="272" align="center" alt="img-cesar" src="https://github.com/user-attachments/assets/4fb01cac-a392-4eb5-beee-3c9969000767" />
+<p align="center">
+  <img width="735" height="272" alt="img-cesar" src="https://github.com/user-attachments/assets/4fb01cac-a392-4eb5-beee-3c9969000767" />
+</p>
 
 <h1 align="center">NEXT — CESAR School</h1>
 
