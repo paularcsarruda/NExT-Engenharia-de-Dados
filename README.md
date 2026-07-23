@@ -1,7 +1,6 @@
-# NEXT — CESAR School | Engenharia de Dados
+<h1 align="center"> NEXT — CESAR School | Engenharia de Dados</h1>
 
-Repositório destinado às atividades, exercícios e projetos desenvolvidos durante o curso **NEXT da CESAR School**, com foco em **Engenharia de Dados**.
-
+---
 ## 📚 Sobre o curso
 
 O programa NEXT da CESAR School tem como objetivo formar profissionais na área de tecnologia, com ênfase em Engenharia de Dados, abordando conceitos fundamentais e práticas modernas do ecossistema de dados.
