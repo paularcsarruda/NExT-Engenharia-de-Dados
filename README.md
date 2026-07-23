@@ -25,23 +25,9 @@ Este repositório tem como finalidade:
 - Ferramentas de Cloud Computing
 - Git e GitHub
 
-## 📊 Projetos
-
-Os projetos serão adicionados ao longo do curso e podem incluir:
-
-- Pipelines de ETL/ELT
-- Análise exploratória de dados (EDA)
-- Processamento de dados em batch e streaming
-- Integração de múltiplas fontes de dados
-- Construção de dashboards e insights
-
-## ⚠️ Observações
-
-Este repositório é voltado para fins educacionais.
-
 ## 🚀 Status do projeto
 
-Em desenvolvimento contínuo durante o curso NEXT.
+Em desenvolvimento contínuo durante o curso NExT.
 
 ## 📄 Licença
 
